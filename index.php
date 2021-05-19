@@ -119,42 +119,42 @@
                            </a>
                            <a href="." class="hero-tile js-hero-tooltip" data-title="Impact Hub" data-location="Austin">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class=" lazyloaded" src="images/tiles/3.jpeg">
+                                 <img class=" lazyloaded" src="images/tiles/3.jpg">
                               </div>
                            </a>
                            <a href="." class="hero-tile js-hero-tooltip" data-title="Workbar" data-location="Boston">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class=" lazyloaded" src="images/tiles/4.jpeg">
+                                 <img class=" lazyloaded" src="images/tiles/4.jpg">
                               </div>
                            </a>
                            <a href="." class="hero-tile js-hero-tooltip" data-title="Worksuites" data-location="Dallas">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class=" lazyloaded" src="images/tiles/5.jpg">
+                                 <img class=" lazyloaded" src="images/tiles/5.png">
                               </div>
                            </a>
                            <a href="." class="hero-tile js-hero-tooltip" data-title="Exchange 312" data-location="Chicago">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class="  lazyloaded" src="images/tiles/6.jpg">
+                                 <img class="  lazyloaded" src="images/tiles/6.png">
                               </div>
                            </a>
                            <a href="." class="hero-tile js-hero-tooltip" data-title="Alkaloid Networks" data-location="Atlanta">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class=" lazyloaded" src="images/tiles/7.jpeg">
+                                 <img class=" lazyloaded" src="images/tiles/7.jpg">
                               </div>
                            </a>
                            <a href="." class="hero-tile js-hero-tooltip" data-title="Impact Hub" data-location="Austin">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class="  lazyloaded" src="images/tiles/8.jpg">
+                                 <img class="  lazyloaded" src="images/tiles/1.jpg">
                               </div>
                            </a>
                            <a href="." class="hero-tile js-hero-tooltip" data-title="Workbar" data-location="Boston">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class="  lazyloaded" src="images/tiles/1.jpg">
+                                 <img class="  lazyloaded" src="images/tiles/2.jpg">
                               </div>
                            </a>
                            <a href="." class="hero-tile js-hero-tooltip" data-title="Worksuites" data-location="Dallas">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class="  lazyloaded" src="images/tiles/2.jpg">
+                                 <img class="  lazyloaded" src="images/tiles/3.jpg">
                               </div>
                            </a>
                         </div>
@@ -163,52 +163,52 @@
                         <div class="home-hero-gallery__right-inner js-hero-tiles-right">
                            <a href="https://app.deskpass.com/spaces/metro-office-dupont-circle?city=dc" class="hero-tile js-hero-tooltip" data-title="Metro Office" data-location="Washington, D.C.">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class=" lazyloaded" src="images/tiles/3.jpeg">
+                                 <img class=" lazyloaded" src="images/tiles/3.jpg">
                               </div>
                            </a>
                            <a href="https://app.deskpass.com/spaces/novel-coworking-denver?city=denver" class="hero-tile js-hero-tooltip" data-title="Novel Coworking" data-location="Denver">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class=" lazyloaded" src="images/tiles/4.jpeg">
+                                 <img class=" lazyloaded" src="images/tiles/4.jpg">
                               </div>
                            </a>
                            <a href="https://app.deskpass.com/spaces/ranch-office?city=houston" class="hero-tile js-hero-tooltip" data-title="Ranch Office" data-location="Houston">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class=" lazyloaded" src="images/tiles/5.jpg">
+                                 <img class=" lazyloaded" src="images/tiles/5.png">
                               </div>
                            </a>
                            <a href="https://app.deskpass.com/spaces/cross-campus-downtown-la?city=los-angeles" class="hero-tile js-hero-tooltip" data-title="Cross Campus" data-location="Los Angeles">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class=" lazyloaded" src="images/tiles/6.jpg">
+                                 <img class=" lazyloaded" src="images/tiles/6.png">
                               </div>
                            </a>
                            <a href="https://app.deskpass.com/spaces/buildingco?city=miami" class="hero-tile js-hero-tooltip" data-title="Building.co" data-location="Miami">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class=" lazyloaded" src="images/tiles/7.jpeg">
+                                 <img class=" lazyloaded" src="images/tiles/7.jpg">
                               </div>
                            </a>
                            <a href="https://app.deskpass.com/spaces/metro-office-dupont-circle?city=dc" class="hero-tile js-hero-tooltip" data-title="Metro Office" data-location="Washington, D.C.">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class="  lazyloaded" src="images/tiles/8.jpg">
+                                 <img class="  lazyloaded" src="images/tiles/1.jpg">
                               </div>
                            </a>
                            <a href="https://app.deskpass.com/spaces/novel-coworking-denver?city=denver" class="hero-tile js-hero-tooltip" data-title="Novel Coworking" data-location="Denver">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class="  lazyloaded" src="images/tiles/1.jpg">
+                                 <img class="  lazyloaded" src="images/tiles/2.jpg">
                               </div>
                            </a>
                            <a href="https://app.deskpass.com/spaces/ranch-office?city=houston" class="hero-tile js-hero-tooltip" data-title="Ranch Office" data-location="Houston">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class=" lazyloaded" src="images/tiles/2.jpg">
+                                 <img class=" lazyloaded" src="images/tiles/3.jpg">
                               </div>
                            </a>
                            <a href="https://app.deskpass.com/spaces/cross-campus-downtown-la?city=los-angeles" class="hero-tile js-hero-tooltip" data-title="Cross Campus" data-location="Los Angeles">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class="  lazyloaded" src="images/tiles/8.jpg">
+                                 <img class="  lazyloaded" src="images/tiles/4.jpg">
                               </div>
                            </a>
                            <a href="" class="hero-tile js-hero-tooltip" data-title="Building.co" data-location="Miami">
                               <div class="hero-tile__inner js-hero-tile">
-                                 <img class=" lazyloaded" src="images/tiles/4.jpeg">
+                                 <img class=" lazyloaded" src="images/tiles/5.png">
                               </div>
                            </a>
                         </div>
