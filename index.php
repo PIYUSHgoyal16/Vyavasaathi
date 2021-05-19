@@ -238,6 +238,14 @@
                         <span class="home-hero-btn__body">Get Started Today</span>
                         </a>
                      </div>
+                     <br><br>
+                     <div class="container">
+                         <a href="#company-sign-up" class="home-hero-btn__teams">
+                             <span class="home-hero-btn__heading">Or are you an employer?</span>
+                             <span class="home-hero-btn__body"></span>
+                         </a>
+                     </div>
+
                   </div>
                </div>
             </div>
@@ -385,8 +393,69 @@
                </div>
                </div>
             </div>
-            </form>
          </div>
+     </form>
+
+     <form action="registration.php" method="POST" onsubmit="return checkSecondForm(this);">
+     <div class="section u-bg-light-grey --padded" id="company-sign-up">
+        <div class="l-container --narrow u-text-align-center">
+           <div class="text-lockup  --medium">
+              <h2 class="text-lockup__heading js-underline-container js-toggle-on-scroll">
+                 Looking for hiring suitable candidates for your startup?
+              </h2>
+              <div class="text-lockup__body">
+                 <p>Find suitable matches now!</p>
+              </div>
+           </div>
+           <div class="floating-form --one-col ">
+             <div class="floating-form__form js-teams-signup-form">
+                <div class="floating-form__field">
+                   <div class="floating-form__field-label">
+                      Register your startup
+                   </div>
+                </div>
+                <div class="floating-form__field">
+                   <input name="email" id="email" class="field" placeholder="Company Email" required="">
+                </div>
+                <div class="floating-form__field">
+                   <input name="username" id="username" class="field" placeholder="Name of your startup" required="">
+                </div>
+                <div class="floating-form__field">
+                   <input type="password" name="pw" id="pw" class="field" placeholder="Password" required="">
+                </div>
+                <div class="floating-form__field">
+                   <input type="password" name="cpw" id="cpw" class="field" placeholder="Confirm Password" required="">
+                </div>
+                <div class="floating-form__field">
+                   <input name="age" id="age" class="field" placeholder="Your CRN" required="">
+                </div>
+             </div>
+             <div class="floating-form__form js-teams-signup-form">
+                <div class="floating-form__field">
+                   <div class="floating-form__field-label">
+                      Contact Info
+                   </div>
+                </div>
+                <div class="floating-form__field">
+                   <input name="address" id="address" class="field" placeholder="Your current address:" required="">
+                </div>
+                <div class="floating-form__field">
+                   <input name="Contact" id="Contact" class="field" placeholder="Your contact number" required="">
+                </div>
+                <div class="floating-form__field">
+                   <input type="linkedin" name="pw" id="pw" class="field" placeholder="LinkedIn Profile:" required="">
+                </div>
+             </div>
+
+
+
+           <div class="floating-form__action --margin-top" >
+              <button type="submit" name="loginsubmit" class="btn" data-original-text="Get Started" data-loading-text="null">Get Started</button>
+           </div>
+           </div>
+        </div>
+     </div>
+ </form>
 
          <form action="login.php" method="POST" onsubmit="return checkFirstForm(this);">
          <div class="section u-bg-light-grey --padded" id="login">
