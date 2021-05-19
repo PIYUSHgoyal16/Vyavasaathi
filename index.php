@@ -5,6 +5,7 @@
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="css/bootstrap.min.css" >
       <link rel="stylesheet" href="css/new.css">
       <link rel="apple-touch-icon" sizes="180x180" href="/dist/apple-touch-icon.png">
       <link rel="icon" type="image/png" sizes="32x32" href="/dist/favicon-32x32.png">
@@ -24,8 +25,8 @@
       <script> gtag('config', 'AW-989448306/IQVqCPv64YkCEPKQ59cD', { 'phone_conversion_number': '844-337-5846‬' }); </script>
       <script type="text/javascript">(function(o){var b="https://zippyfrog.co/anywhere/",t="12a7f97f9e85447399a181c46519ed417d446800f92b463b97336c0c0525ea5e",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({});</script>
       <title>Assurance</title>
-      <link rel = "icon" href = 
-         "images/icon.png" 
+      <link rel = "icon" href =
+         "images/icon.png"
         type = "image/x-icon">
       <meta name="generator" content="SEOmatic">
       <meta name="description" content="Deskpass provides affordable, flexible access to hundreds of coworking spaces and conference rooms for individuals and teams. Try it free for 30-days!">
@@ -220,7 +221,7 @@
                <div class="l-home-hero__text">
                   <div class="text-lockup  --xlarge">
                      <h2 class="text-lockup__heading js-underline-container js-toggle-on-scroll --is-in-view">
-						Vyavsaathi
+						Vyavasaathi
                      </h2>
                      <div class="text-lockup__body">
                         <p>Find exciting job opportunities, from fast-growing startups you know and love</p>
@@ -285,7 +286,7 @@
                </div>
             </div>
          </div>
-         
+
          <form action="registration.php" method="POST" onsubmit="return checkSecondForm(this);">
          <div class="section u-bg-light-grey --padded" id="sign-up">
             <div class="l-container --narrow u-text-align-center">
@@ -294,55 +295,91 @@
                      What are you waiting for?
                   </h2>
                   <div class="text-lockup__body">
-                     <p>Get started with Assurance</p>
+                     <p>Find your startup job now!</p>
                   </div>
                </div>
                <div class="floating-form --one-col ">
-                  <div class="floating-form__form js-teams-signup-form">
-                     <div class="floating-form__field">
-                        <div class="floating-form__field-label">
-                           Tell us about yourself
-                        </div>
-                     </div>
-                     <div class="floating-form__field">
-                        <input name="email" id="email" class="field" placeholder="Your Email" required="">
-                     </div>
-                     <div class="floating-form__field">
-                        <input name="username" id="username" class="field" placeholder="Your Name" required="">
-                     </div>
-                     <div class="floating-form__field">
-                        <input type="password" name="pw" id="pw" class="field" placeholder="Password" required="">
-                     </div>
-                     <div class="floating-form__field">
-                        <input type="password" name="cpw" id="cpw" class="field" placeholder="Confirm Password" required="">
-                     </div>
-                  </div>
-                  <div class="floating-form__field">
-                     <div class="radio-group">
-                        <div class="radio-group__label">
-                           Your Role
-                        </div>
-                        <div class="radio-group__options">
-                           <label class="radio-group__option" for="Consumer">
-                           <input type="radio" id="Consumer" name="role" value="2" required="">
-                           <span class="radio-group__option-label">Consumer</span>
-                           </label>
-                           <label class="radio-group__option" for="Retailer">
-                           <input type="radio" id="Retailer" name="role" value="1">
-                           <span class="radio-group__option-label">Retailer</span>
-                           </label>
-                           <label class="radio-group__option" for="Distributor">
-                           <input type="radio" id="Distributor" name="role" value="1">
-                           <span class="radio-group__option-label">Distributor</span>
-                           </label>
-                          <label class="radio-group__option" for="Manufacturer">
-                          <input type="radio" id="Manufacturer" name="role" value="0">
-                           <span class="radio-group__option-label">Manufacturer</span>
-                           </label>
-                        </div>
-                     </div>
-                  </div>
-               
+                 <div class="floating-form__form js-teams-signup-form">
+                    <div class="floating-form__field">
+                       <div class="floating-form__field-label">
+                          Tell us about yourself
+                       </div>
+                    </div>
+                    <div class="floating-form__field">
+                       <input name="email" id="email" class="field" placeholder="Your Email" required="">
+                    </div>
+                    <div class="floating-form__field">
+                       <input name="username" id="username" class="field" placeholder="Your Name" required="">
+                    </div>
+                    <div class="floating-form__field">
+                       <input type="password" name="pw" id="pw" class="field" placeholder="Password" required="">
+                    </div>
+                    <div class="floating-form__field">
+                       <input type="password" name="cpw" id="cpw" class="field" placeholder="Confirm Password" required="">
+                    </div>
+                    <div class="floating-form__field">
+                       <input name="age" id="age" class="field" placeholder="Your Age" required="">
+                    </div>
+                 </div>
+                 <div class="floating-form__field">
+                    <div class="radio-group">
+                       <div class="radio-group__label">
+                          Your Gender
+                       </div>
+                       <div class="radio-group__options">
+                          <label class="radio-group__option" for="Consumer">
+                          <input type="radio" id="Consumer" name="role" value="2" required="">
+                          <span class="radio-group__option-label">Male</span>
+                          </label>
+                          <label class="radio-group__option" for="Retailer">
+                          <input type="radio" id="Retailer" name="role" value="1">
+                          <span class="radio-group__option-label">Female</span>
+                          </label>
+                       </div>
+                    </div>
+                 </div>
+                 <div class="floating-form__form js-teams-signup-form">
+                    <div class="floating-form__field">
+                       <div class="floating-form__field-label">
+                          Contact Info
+                       </div>
+                    </div>
+                    <div class="floating-form__field">
+                       <input name="address" id="address" class="field" placeholder="Your current address:" required="">
+                    </div>
+                    <div class="floating-form__field">
+                       <input name="Contact" id="Contact" class="field" placeholder="Your contact number" required="">
+                    </div>
+                    <div class="floating-form__field">
+                       <input type="linkedin" name="pw" id="pw" class="field" placeholder="LinkedIn Profile:" required="">
+                    </div>
+                 </div>
+                 <div class="floating-form__form js-teams-signup-form">
+                    <div class="floating-form__field">
+                       <div class="floating-form__field-label">
+                          Personal Info
+                       </div>
+                    </div>
+                    <div class="floating-form__field">
+                       <input name="salary" id="salary" class="field" placeholder="Expected salary:" required="">
+                    </div>
+                    <div class="floating-form__field">
+                       <input name="interest" id="interest" class="field" placeholder="Field of interest:" required="">
+                    </div>
+                    <div class="floating-form__field">
+                       <input type="location" name="pw" id="pw" class="field" placeholder="Preferred job location:" required="">
+                    </div>
+                    <div class="floating-form__field">
+                       <input type="description" name="pw" id="pw" class="field" placeholder="Personal description:" required="">
+                    </div>
+                    <div class="floating-form__field">
+                      <label for="formFileLg" class="field"><h3 class="text-secondary">Upload your resume</h3></label>
+                      <input class="field" id="formFileLg" type="file" style="display:none;">
+                    </div>
+                 </div>
+
+
+
                <div class="floating-form__action --margin-top" >
                   <button type="submit" name="loginsubmit" class="btn" data-original-text="Get Started" data-loading-text="null">Get Started</button>
                </div>
@@ -375,7 +412,7 @@
             </form>
 
 
-    
+
          </div>
          </div>
          </div>
@@ -407,8 +444,8 @@
                   </svg>
                </a>
             </div>
-            
-             
+
+
                </div>
             </div>
             <div class="site-footer__copyright">
@@ -416,12 +453,12 @@
             </div>
          </div>
       </div>
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
     <!-- JQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
@@ -430,7 +467,7 @@
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/mdb.min.js"></script>
     <script>
-  
+
     function isInputNumber(evt){
       var ch = String.fromCharCode(evt.which);
       if(!(/[0-9]/.test(ch))){
@@ -510,7 +547,7 @@
       if (pw!=cpw) {
         showAlert("Please check your password");
         return false;
-      } 
+      }
       return true;
     }
 
@@ -523,7 +560,7 @@
       }
       return true;
     }
-    
+
     function validateEmail(email) {
         var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
         return re.test(email);
@@ -536,6 +573,5 @@
     }
 
 
-    
+
     </script>
-    
