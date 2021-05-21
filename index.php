@@ -24,10 +24,10 @@
       <!-- Global site tag (gtag.js) - Google Ads: 989448306 --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-989448306"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-989448306'); </script>
       <script> gtag('config', 'AW-989448306/IQVqCPv64YkCEPKQ59cD', { 'phone_conversion_number': '844-337-5846‬' }); </script>
       <script type="text/javascript">(function(o){var b="https://zippyfrog.co/anywhere/",t="12a7f97f9e85447399a181c46519ed417d446800f92b463b97336c0c0525ea5e",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({});</script>
-      <title>Assurance</title>
-      <link rel = "icon" href =
+      <title>Vyavasaathi</title>
+      <!-- <link rel = "icon" href =
          "images/icon.png"
-        type = "image/x-icon">
+        type = "image/x-icon"> -->
       <meta name="generator" content="SEOmatic">
       <meta name="description" content="Deskpass provides affordable, flexible access to hundreds of coworking spaces and conference rooms for individuals and teams. Try it free for 30-days!">
       <meta name="referrer" content="no-referrer-when-downgrade">
@@ -257,43 +257,6 @@
          <div class="l-container">
          </div>
 
-         <!-- Quotes -->
-         <div class="section --padded --overflow-hidden">
-            <div class="l-container --narrow">
-               <div class="testimonials-slideshow --big js-testimonials-slideshow flickity-enabled is-draggable ">
-                  <div class="flickity-viewport" style="height: 465px; touch-action: pan-y;">
-                     <div class="flickity-slider" style="left: 0px; transform: translateX(0%);">
-                        <div class="testimonials-slideshow__slide js-slide is-selected" style="position: absolute; left: 0%;">
-                           <div class="l-testimonial --bg-">
-                              <div class="l-testimonial__quote">
-                                 <blockquote class="quote  --bg-">
-                                    <p class="quote__text">
-                                    In the absence of reliable data and accurate information, the suffering due to the COVID-19 crisis has been exacerbated by misinformation, which ranges from warnings of imminent doom to conspiracy theories. The COVID-19 crisis is a <b> Crisis of Trust</b>.
-                                    </p>
-                                    <div class="quote__byline">
-                                       <div class="quote__author">António Guterres</div>
-                                       <div class="quote__author-title">UN Deputy-Secretary-General</div>
-                                    </div>
-                                 </blockquote>
-                              </div>
-                              <!-- <div class="l-testimonial__img"> -->
-                                 <!-- <div class="img-container --testimonial"> -->
-                                    <img class="lazyload" src="img/buddha.jpg" sizes="auto" alt="António Guterres">
-                                 <!-- </div> -->
-                              <!-- </div> -->
-                           </div>
-                        </div>
-
-                     </div>
-                  </div>
-                  <ol class="flickity-page-dots">
-                     <li class="dot is-selected" aria-label="Page dot 1" aria-current="step"></li>
-                     <li class="dot" aria-label="Page dot 2"></li>
-                     <li class="dot" aria-label="Page dot 3"></li>
-                  </ol>
-               </div>
-            </div>
-         </div>
 
          <form action="registration.php" method="POST" onsubmit="return checkSecondForm(this);">
          <div class="section u-bg-light-grey --padded" id="sign-up">
@@ -389,7 +352,9 @@
 
 
                <div class="floating-form__action --margin-top" >
-                  <button type="submit" name="loginsubmit" class="btn" data-original-text="Get Started" data-loading-text="null">Get Started</button>
+                  
+                     <button class="btn" onclick="location.href = './apply.php';">Get Started</button>
+                  
                </div>
                </div>
             </div>
@@ -450,7 +415,7 @@
 
 
            <div class="floating-form__action --margin-top" >
-              <button type="submit" name="loginsubmit" class="btn" data-original-text="Get Started" data-loading-text="null">Get Started</button>
+              <button type="submit" name="loginsubmit" onclick="location.href = './addpost.php';" class="btn" data-original-text="Get Started" data-loading-text="null">Get Started</button>
            </div>
            </div>
         </div>
@@ -474,7 +439,7 @@
                         <input type="password" name="pw" id="pw" class="field" placeholder="Password" required="">
                      </div>
                      <div class="floating-form__action --margin-top">
-                    <button type="submit" name="loginsubmit" class="btn" data-original-text="Login" data-loading-text="null">Login</button>
+                    <button type="submit" name="loginsubmit" onclick="location.href = './myapp.php';" class="btn" data-original-text="Login" data-loading-text="null">Login</button>
 
                </div>
             </div>
